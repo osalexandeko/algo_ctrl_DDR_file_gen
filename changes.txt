@@ -1,0 +1,29 @@
+|------------------------------------------------------------------------------|
+ BF_20221120_REMOVE_DEAD - 0xDEAD was removed. 
+ 
+ BF_20221120_DELTA_ALPHA_SWAP    - delta and alpha are swaped, in struct.
+ 
+ BF_BF_20221120_MAJOR_MINOR_NOT_ZERO -  Major and minor cannot be both 0, 
+ 									   otherwise the command is invalid.
+ -------------------------------------------------------------------------------
+
+ BF_20221120_TEXT_LOG - Add logs option.
+
+ BF_20221120_INVALID_DPP_COMMAND -
+
+ BF_20221120_NOT_APPLICABLE_BUFFER -
+
+ BF_20221120_INVALID_SIZE -
+
+ BF_20221120_INVALID_BYTESUM - Invalid cs, handling wrong check sum.
+
+ BF_20221120_MONITOR_SUCCESS_CYCLES -
+
+ BF_20221120_MONITOR_MISSED_CYCLES - Missed cycles stands for the cycles
+             with DPP counter that is not successive with the previous DPP
+             counter.
+
+ BF_20221120_MONITOR_INVALID_CYCLES -
+ 
+
+|------------------------------------------------------------------------------|

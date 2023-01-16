@@ -1,0 +1,3 @@
+C:/Users/akazansk/OneDrive - Intel Corporation/Desktop/doc/cpp/cpp/DPP_Interface_Definition/out/build/x64-Debug/CMakeFiles/DPP_Interface_Definition.dir
+C:/Users/akazansk/OneDrive - Intel Corporation/Desktop/doc/cpp/cpp/DPP_Interface_Definition/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/akazansk/OneDrive - Intel Corporation/Desktop/doc/cpp/cpp/DPP_Interface_Definition/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
